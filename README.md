@@ -5,7 +5,7 @@ Ola! Eu sou o Matheus0000
 <div>
   <a href="https://github.com/matheus0000">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus0000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus0000&langs_count=7&theme=algolia" style="max-width: 100%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus0000&langs_count=7&theme=algolia" style="max-width: 100%;"/>
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus0000&layout=compact&langs_count=7&theme=algolia"/> -->
 </div>
 
